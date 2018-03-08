@@ -1,0 +1,9 @@
+img{
+  display:none;
+  width:50%;
+}
+
+button {
+  background-color:blue;
+  color: white;
+}
